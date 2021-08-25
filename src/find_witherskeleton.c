@@ -129,7 +129,7 @@ int input()
 		return 0;
 	}
 	
-	int b_seed;
+	uint64_t b_seed;
 	int b_range;
 	int b_area;
 	if (str_area[0] != '\0')
